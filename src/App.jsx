@@ -27,6 +27,7 @@ const App = () => {
           eveniet debitis saepe cum! Similique, quos!
         </p>
       </div>
+      <div className=" absolute top-0 left-0 w-full h-full bg-white/85"></div>
     </div>
   );
 };
