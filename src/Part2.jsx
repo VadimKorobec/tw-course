@@ -20,6 +20,12 @@ const Part2 = () => {
       >
         ADAPTIVE
       </div>
+      <div className="perspective-distant">
+        <iframe
+          className="w-full h-full aspect-video rotate-x-40 rotate-z-33 transform-3d"
+          src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+        ></iframe>
+      </div>
     </div>
   );
 };
